@@ -1,5 +1,8 @@
 _repo: Springhaven--A-Tale-of-the-Great-War_7435
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackmore, R. D. (Richard Doddridge)
@@ -13,6 +16,8 @@ description: "Springhaven: a tale of the Great War is a three-volume novel by R.
   \ Blackmore published in 1887. It is set in Sussex during the time of the Napoleonic\
   \ Wars, and revolves around the plots of the villainous Captain Caryl Carne who\
   \ attempts to aid a French invasion.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7435#Springhaven--A-Tale-of-the-Great-War
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-06-06'
 gutenberg_type: Text
